@@ -31,7 +31,6 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-- Instagram : https://www.instagram.com/stukantimur/.
-- Telegram : @ncxname.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stukantimur) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20859948) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Somesk1ll) 
 
  
