@@ -31,5 +31,16 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+</a>
+<a href="https://t.me/ncxname">
+  <img align="left" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+</a>
+<a href="https://www.instagram.com/stukantimur/">
+  <img align="left" alt="Timur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</a>
+<a href="https://twitter.com/Somesk1ll1">
+  <img align="left" alt="Stukan Timur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
  
