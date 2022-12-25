@@ -31,5 +31,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-- Instagram : https://www.instagram.com/stukantimur/;
-- Telegram : https://web.telegram.org/z/;
+- Instagram : https://www.instagram.com/stukantimur/.
+- Telegram : @ncxname.
+
+ 
