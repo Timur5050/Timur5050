@@ -1,9 +1,11 @@
-<h2> Hey there! I'm Timur.</h2>
+<h2> Hey there! I'm Timur. <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></h2>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-I'm studying to get into Faang
 
 
+- 👨‍💻 &nbsp; I'm studying to get into Faang
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Mathematics
 - 💼 &nbsp; I don't have a job yet, but I'm working on it.
@@ -30,9 +32,15 @@ I'm studying to get into Faang
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<br/>
+
+<h3>
+🏅 Some humble achievements 
+<h3>
 
 
+[![codewars](https://www.codewars.com/users/Somesk1ll/badges/large)](https://www.codewars.com/users/Somesk1ll)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=somesk1ll&theme=dark)](https://github.com/somesk1ll/leetcode-stats) <h3>Going to try-hard leetcode more(
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 </a>
@@ -46,5 +54,9 @@ I'm studying to get into Faang
 </a>
 <a href="https://twitter.com/Somesk1ll1">
   <img align="left" alt="Stukan Timur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+</a>
+<a href="https://stackoverflow.com/users/20859948/somesk1ll">
+  <img align="left" alt="kwikmatt | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
  
