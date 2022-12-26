@@ -41,7 +41,7 @@
 [![codewars](https://www.codewars.com/users/Somesk1ll/badges/large)](https://www.codewars.com/users/Somesk1ll)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=somesk1ll&theme=dark)](https://github.com/somesk1ll/leetcode-stats) <h3>
-  I am going to solve LeetCode more(
+  Gonna to solve LeetCode more(
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 </a>
