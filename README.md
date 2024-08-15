@@ -14,9 +14,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Timur5050&theme=solarized_dark)
-<h3>
-🏅 Some humble achievements 
-<h3>
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/somesk1ll?ext=heatmap)
 <br>
