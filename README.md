@@ -1,18 +1,6 @@
 <h2> Hey there! I'm Timur. <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></h2>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-
-- 👨‍💻 &nbsp; I'm studying to get into Faang
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Mathematics
-- 💼 &nbsp; I don't have a job yet, but I'm working on it.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Timur5050&theme=solarized_dark)
 
 
