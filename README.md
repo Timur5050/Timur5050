@@ -1,6 +1,3 @@
-<h2> Hey there! I'm Timur. <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></h2>
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Timur5050&theme=solarized_dark)
 
 
@@ -8,7 +5,7 @@
 <br>
   Gonna to solve LeetCode more(
 
-<h3>Connect with Me </h3>
+<h3>Connect</h3>
 </a>
 <a href="https://t.me/ncxname">
   <img align="left" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
