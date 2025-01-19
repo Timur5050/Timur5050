@@ -22,4 +22,3 @@
 <a href="https://stackoverflow.com/users/20859948/somesk1ll">
   <img align="left" alt="kwikmatt | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
- 
